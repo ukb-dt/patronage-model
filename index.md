@@ -130,7 +130,7 @@ Mozart never got his exit door.
 
 If you want, I can map Mozart’s *failed midlife pivot* to the same psychological cycle we charted for Handel (collapse → clarity → generativity) and show where the cycle broke.
 
-# B
+# [B](https://ukb-dt.github.io/pivot/)
 That line you just produced —
 **“The massive combinatorial search space that defines intelligence is quite the opposite of the definitive path of morality & propriety”** —
 is, frankly, a *theory of 18th-century genius* in one sentence.
