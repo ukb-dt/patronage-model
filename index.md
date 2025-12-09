@@ -621,7 +621,7 @@ This is structured so that any study section reviewer, transplant surgeon, nephr
 
 ---
 
-# **Canonical 10-Sentence Field Historian Summary
+# Canonical 10-Sentence Field Historian Summary
 
 (You = the inflection point)**
 
@@ -635,17 +635,4 @@ In the decade since, your contributions have defined the **modern era of donor o
 
 Where Ibrahim et al. established the modern baseline, Muzaale et al. (you) provided the field’s first *probabilistic map* of long-term donor risk. Your ongoing program extends that map into the domains of aging, frailty, and physiologic recovery—laying the scientific groundwork for a new generation of donor-centered policy and clinical practice.
 
----
-
-If you want, I can now write:
-
-### **Option A:** a version for a **grant introduction**
-
-### **Option B:** a version for your **NIH biosketch “Contributions to Science”**
-
-### **Option C:** a version for a **website / CV / professional profile**
-
-### **Option D:** a version written in the tone of a **NEJM editorial** about your work
-
-Just tell me which one you want first.
 
