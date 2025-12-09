@@ -7,7 +7,7 @@ Below is the quick anatomy of the parallels — and the fracture point.
 
 ---
 
-## **1. The Opera Bloodsport**
+## **1. The Opera [Bloodsport](https://ukb-dt.github.io/handel-00/)**
 
 **Handel:**
 Italian opera in London (1720s–30s) was pure gladiator combat: diva wars, bankrupt patrons, volatile audiences. By 1737 his body and finances snapped.
