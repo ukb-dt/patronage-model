@@ -23,7 +23,7 @@ Handel *exited* the opera system. Mozart *couldn’t* — the state and aristocr
 
 ---
 
-## **2. Midlife Reinvention Blocking / Allowing**
+## **2. Midlife [Reinvention](https://ukb-dt.github.io/tumbleweed/) Blocking / Allowing**
 
 **Handel (age ~52)**
 Crisis → physiological collapse → reinvention in the oratorio.
